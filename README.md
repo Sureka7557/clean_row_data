@@ -1,4 +1,4 @@
-# import pandas using pandas keyword
+# import pandas using import keyword
 import pandas as pd
  # Read the Excel file
 df = pd.read_excel('new.xlsx')
